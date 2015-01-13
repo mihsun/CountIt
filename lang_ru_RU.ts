@@ -61,7 +61,7 @@
     <message>
         <location filename="../qml/Tapper/AboutPage.qml" line="270"/>
         <source>CountIt is counter application based on QML. It&apos;s compatible with all Symbian phones with Symbian Anna and newer version of Symbian.</source>
-        <translation>CountIt - это приложение-счётчик на основе QML. Оно совместимо со всеми Symbian-смартфонами с Symbian Anna и более новыми версиями Symbian.</translation>
+        <translation>CountIt - это программа-счётчик на основе QML. Она совместима со всеми Symbian-смартфонами с Symbian Anna и более новыми версиями Symbian.</translation>
     </message>
     <message>
         <location filename="../qml/Tapper/AboutPage.qml" line="283"/>
@@ -165,7 +165,7 @@
     <message>
         <location filename="../qml/Tapper/CountDown.qml" line="193"/>
         <source> This page allows you count a specific number between 1-999 999. Tap on screen to count down or use proximity sensor. To count up make a long press on screen. If application reaches 0, the gong will informates you.</source>
-        <translation>На этой странице можно отсчитать определённое количество между 1 и 999 999. Для обратного отсчёта коснитесь экрана или используйте датчик приближения. Для прямого счёта длительно коснитесь экрана. Когда счёт дойдёт до 0, Вас проинформирует гонг.</translation>
+        <translation>На этой странице можно отсчитать от определённого числа (между 1 и 999 999). Для обратного отсчёта коснитесь экрана или используйте датчик приближения. Для прямого счёта длительно коснитесь экрана. Когда счёт дойдёт до 0, Вас проинформирует гонг.</translation>
     </message>
 </context>
 <context>
@@ -290,7 +290,7 @@
     <message>
         <location filename="../qml/Tapper/PreCountDownII.qml" line="83"/>
         <source> This page allows you count a specific number between 1-999 999. At first set value how many signals you want count. After that press continue button.</source>
-        <translation>На этой странице можно отсчитать определённое количество между 1 и 999 999. Для начала установите количество сигналов, необходимых для отсчёта. После этого нажмите кнопку Продолжить.</translation>
+        <translation>На этой странице можно отсчитать от определённого числа (между 1 и 999 999). Для начала установите количество сигналов, необходимых для отсчёта. После этого нажмите кнопку Продолжить.</translation>
     </message>
 </context>
 <context>
@@ -336,7 +336,7 @@
     <message>
         <location filename="../qml/Tapper/Settings.qml" line="177"/>
         <source>Allows nontouch control. Proximity sensor is little bit slower - reaction time is something around 250ms.</source>
-        <translation>Обеспечивает управление. Датчик приближения немного медленнее - время реакции составляет около 250 мс.</translation>
+        <translation>Обеспечивает управление без касания экрана. Датчик приближения немного медленнее - время реакции составляет около 250 мс.</translation>
     </message>
     <message>
         <location filename="../qml/Tapper/Settings.qml" line="191"/>
@@ -351,7 +351,7 @@
     <message>
         <location filename="../qml/Tapper/Settings.qml" line="238"/>
         <source>Allows nontouch control when phone is locked or application is minimized.</source>
-        <translation>Обеспечивает управление, когда телефон заблокирован или приложение свёрнуто.</translation>
+        <translation>Обеспечивает управление без касания экрана, когда телефон заблокирован или пограмма свёрнута.</translation>
     </message>
     <message>
         <location filename="../qml/Tapper/Settings.qml" line="264"/>
